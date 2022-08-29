@@ -1,0 +1,6 @@
+fizzbuzz = COMPLETE
+base35 = INDEV
+popular_domains = WAITING
+text_formaterr = WAITING
+log_throughput = WAITING
+html_markup = WAITING
